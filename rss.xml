@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jbu]]></title>
         <description><![CDATA[jbu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jbu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 21:08:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 21:11:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jbu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-fra3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12729033_10155135518587837_3586944584362827375_n.jpg?oh=30e860daac15f88bfd7e4db29222885f&oe=575B50AF">]]></description>
+            <link>https://thegrid.ai/jbu/d1744c4c-1be7-46f1-999f-ffbc9d63a21c/index.html</link>
+            <guid isPermaLink="false">d1744c4c-1be7-46f1-999f-ffbc9d63a21c</guid>
+            <pubDate>Fri, 11 Mar 2016 21:11:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>this is going to be my first grid post. let's see what the machines are going to do</p>]]></description>
-            <link>undefined30a22074-fe9f-4a24-9379-91da25544e15/index.html</link>
+            <link>https://thegrid.ai/jbu/30a22074-fe9f-4a24-9379-91da25544e15/index.html</link>
             <guid isPermaLink="false">30a22074-fe9f-4a24-9379-91da25544e15</guid>
             <pubDate>Fri, 11 Mar 2016 21:08:36 GMT</pubDate>
         </item>
