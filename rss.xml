@@ -4,7 +4,7 @@
         <description><![CDATA[johannes buchmann berlin]]></description>
         <link>https://thegrid.ai/jbu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 18:35:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jbu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Perspective Daily - ich finde das gut]]></title>
@@ -12,6 +12,13 @@
             <link>https://perspective-daily.de/</link>
             <guid isPermaLink="false">36e9ece2-4f98-4d42-8a57-dd4a3d30f6fd</guid>
             <pubDate>Sat, 12 Mar 2016 15:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Announcing SQL Server on Linux - The Official Microsoft Blog]]></title>
+            <description><![CDATA[<article><h1>Announcing SQL Server on Linux - The Official Microsoft Blog</h1><p>It's been an incredible year for the data business at Microsoft and an incredible year for data across the industry. This Thursday at our Data Driven event in New York, we will kick off a wave of launch activities for SQL Server 2016 with general availability later this year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f2fc96ff8c0c456f538b45a84e81ec76b1cf874.png"></article>]]></description>
+            <link>http://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/</link>
+            <guid isPermaLink="false">48017d73-bc0e-44f9-a4d3-7053dfa4860c</guid>
+            <pubDate>Sat, 12 Mar 2016 18:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After an easy breach, hackers leave "TIPS WHEN RUNNING A SECURITY COMPANY"]]></title>
