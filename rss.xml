@@ -4,7 +4,7 @@
         <description><![CDATA[johannes buchmann berlin]]></description>
         <link>https://thegrid.ai/jbu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 15:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:28:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jbu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Perspective Daily - ich finde das gut]]></title>
@@ -12,6 +12,13 @@
             <link>https://perspective-daily.de/</link>
             <guid isPermaLink="false">36e9ece2-4f98-4d42-8a57-dd4a3d30f6fd</guid>
             <pubDate>Sat, 12 Mar 2016 15:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After an easy breach, hackers leave "TIPS WHEN RUNNING A SECURITY COMPANY"]]></title>
+            <description><![CDATA[<article><h1>After an easy breach, hackers leave "TIPS WHEN RUNNING A SECURITY COMPANY"</h1><p>A Web security company's systems are offline this morning after an apparent intrusion into the company's network. The servers and routers of Staminus Communications-a Newport Beach, California-based hosting and distributed denial of service (DDoS) protection company-went offline at 8am Eastern Time on Thursday in what a representative described in a Twitter post as "a rare event [that] cascaded across multiple routers in a system wide event, making our backbone unavailable."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4021ba61473cac702631d63fab953ab30b82f7e4.png"></article>]]></description>
+            <link>http://arstechnica.com/security/2016/03/after-an-easy-breach-hackers-leave-tips-when-running-a-security-company/</link>
+            <guid isPermaLink="false">51b58c51-b59e-4111-b57f-cd92d4eac7dd</guid>
+            <pubDate>Sat, 12 Mar 2016 16:28:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Magdeburger Platz]]></title>
