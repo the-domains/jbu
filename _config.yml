@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.7007169
   brandStrength: 0.2383513
-  lightness: 0.5017921
+  lightness: 0.8512545
   brandColors:
     - '#F0F1E9'
     - '#312E28'
     - '#BEB3A3'
     - '#878889'
     - '#4BA3B2'
-  rhythmicContrast: 0.3225806
+  rhythmicContrast: 0.8010753
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: jbu
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0
+typography_spectrum: 0.3548387
 layout_spectrum: 0
